@@ -4,17 +4,7 @@
 // Taking the max of option 1 and option 2 will lead to the max answer.
 
 
-
-
-
-
-
-
-
-
-
 #include<bits/stdc++.h>
-
 using namespace std;
 typedef long long ll;
 
