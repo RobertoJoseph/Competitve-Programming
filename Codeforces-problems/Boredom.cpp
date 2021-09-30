@@ -1,3 +1,18 @@
+// We started by the min value then the base case if the number exceeded the max which is the highest number in array return 0;
+// Option 1 is taking the value i  so i cant take i+1 so I moved to i+2 and added the frequency of this i to my solution
+// Option 2 is leaving this i and go to the next i+1 to try it
+// Taking the max of option 1 and option 2 will lead to the max answer.
+
+
+
+
+
+
+
+
+
+
+
 #include<bits/stdc++.h>
 
 using namespace std;
